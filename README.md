@@ -33,4 +33,4 @@ Action Plan – If it happened again, what would you do?
 * Set aside dedicated study time and actively get more feedback on projects from the tutor.
 * Work on additional projects to reinforce learning during my bootcamp and after the bootcamp is finished.
 
-Back to Welcome Page
+Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
