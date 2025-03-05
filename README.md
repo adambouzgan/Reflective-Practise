@@ -1,7 +1,7 @@
 <img width="50" alt="Screenshot 2025-03-05 at 07 38 04" src="https://github.com/user-attachments/assets/9661612c-37ea-4a50-a17b-25601a8b7a94" />Back to [Welcome Page](https://adambouzgan.github.io/Welcome-To-My-Portfolio/)
 
 
-## Reflective-Practise
+# Reflective-Practise
 
 
 
@@ -15,9 +15,11 @@
 * During the course, I sometimes felt overwhelmed by the pace and the terminology used in the syntax code.
 
 ## Evaluation – What was good and bad about the experience?
- ## Positive aspects:
+  
+Positive aspects:
 * Dan Petrusow, my trainer, was very helpful and was quick to respond when I needed help, and I connected with peers who had similar goals.
- ## Negative aspects:
+
+Negative aspects:
 * The workload was intense, making it hard to balance with other commitments.
 Some topics, like machine learning and AI, felt rushed due to time constraints.
 
